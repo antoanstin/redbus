@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media(min-width:992px) {
+    .confused {
+        background-color: white;
+        border-radius: 35px;
+        overflow: hidden;
+        
+    }
+    .bor{
+        border-right: 1px solid rgba(128, 128, 128, 0.253);
+    }
+    .ggo{
+        padding:140px 0 270px 0;
+    
+    }
+}
+
+@media(max-width:992px) {
+    .confused {
+        background-color: white;
+        border-radius: 15px;
+        padding: 20px;
+        
+    }
+    .ggo{
+        padding:100px 0 160px 0;
+    
+    }
+    .bor{
+        border-bottom: 1px solid rgba(128, 128, 128, 0.253);
+    }
+}
+
+
+.banner{
+    background: url("https://s3.rdbuz.com/web/images/homeV2/HomeBannerImg.svg") 0% 0% / cover no-repeat;
+    position: relative;
+    z-index: 1;
+    top:100px;
+}
+.css-85zwa9-MuiInputBase-root-MuiFilledInput-root{
+    background-color:transparent !important;
+}
+.css-85zwa9-MuiInputBase-root-MuiFilledInput-root:before{
+         border-bottom:none !important;
+         content:"" !important;
+}
+.css-85zwa9-MuiInputBase-root-MuiFilledInput-root:focus{
+    background-color:transparent !important;
+}
+.css-85zwa9-MuiInputBase-root-MuiFilledInput-root:focus .css-85zwa9-MuiInputBase-root-MuiFilledInput-root:before{
+    border-bottom:none !important; 
+}
+
+
+.redbox
+{
+    cursor: pointer;
+    /* border-top-right-radius:35px;
+    border-bottom-right-radius:35px; */
+}
+.searchbus{
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.validation{
+    color:red;
+    padding-left:200px;
+    padding-top: 10px;
+    
+}
+.date-set input{
+    padding: 5px;
+    border:none;
+    outline: none;
+}
+.close{
+    display:none;
+}
+.open{
+    display:block;
+}

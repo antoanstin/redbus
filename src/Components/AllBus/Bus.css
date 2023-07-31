@@ -1,0 +1,287 @@
+@media(max-width:992px){
+    .bord{
+        border-bottom: 1px dotted rgba(128, 128, 128, 0.144);
+        padding-bottom: 10px;
+    }
+    .filterpos{
+        display: none !important;
+    }
+    .accordion{
+        position: sticky;
+        top:57px !important;
+    }
+}
+@media(min-width:992px){
+    .accordion{
+        display: none !important;
+    }
+}
+
+.bus_name{
+    font-size: 13px;
+    font-weight: 700;
+    color: #3e3e52;
+}
+.bus_type{
+    font-size: 11px;
+    font-weight: 400;
+    color: #3e3e52;
+}
+.icons span{
+    font-size: 15px;
+    font-weight: 400;
+   
+}
+.icons{
+    gap:5px;
+    margin: 20px 0;
+}
+.Flexi{
+    background-color: #f8f4f4;;
+    padding: 4px;
+    font-size: 11px !important;
+    border-radius: 5px;
+}
+.Live{
+    background-color: #f8f4f4;;
+    padding: 4px;
+    font-size: 11px !important;
+    border-radius: 5px;
+}
+.departurep1{
+    font-size: 18px;
+}
+.departurep2{
+    font-size: 13px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+.duration p{
+    font-size: 13px;
+    font-weight: 400;
+    padding-top: 5px;
+}
+.arival_time{
+    font-size: 19px;
+    font-weight: 400;
+}
+.arival_date{
+    font-size: 14px;
+    font-weight: 400;
+    color:red;
+    padding-top: 3px;
+}
+.arrival_place{
+    color: #3e3e52;
+    font-size: 12px;
+    font-weight: 400;
+}
+.rating_icon{
+    font-weight: 400;
+    font-size: 16px;
+    color:white;
+}
+.ratingss{
+    padding: 0 5px;
+    border-radius: 5px;
+    background-color: rgb(55, 163, 55);
+    width: 50px;
+}
+.rating_no{
+    font-size: 14px;
+    color: aliceblue;
+    font-weight: 400;
+}
+.ratings_person{
+    padding-top: 15px;
+    gap:6px;
+}
+.rating_icon_person{
+    font-size: 16px;
+    color: gray;
+}
+.rating_person_count{
+    font-size: 13px;
+    font-weight: 400;
+}
+.starts{
+    font-size: 14px;
+    font-weight: 400;
+}
+.inr{
+    font-size: 14px;
+    font-weight: 400; 
+}
+.Seats_Available{
+    margin: 25px 0;
+
+}
+.Seats_Available p{
+    font-size: 14px;
+    font-weight: 400;
+}
+.hide{
+    visibility: hidden;
+}
+.seats{
+    cursor: pointer;
+}
+.bus_seats{
+    background-color: #eeeded ;
+}
+.bus_seats_hide{
+    display:none;
+}
+.bus_seats_show{
+    display: block;
+}
+.view_btn{
+    background-color: #d84f57;
+    color:white;
+    border:none;
+}
+.gray{
+    background-color: gray;
+}
+.hu
+{
+    width:16%;
+}
+.legend{
+    background-color:gray ;
+}
+.aeat_legent{
+    color: #3e3e52;
+    font-size: 15px;
+    font-weight: 700;
+}
+.avai{
+    color: #3e3e52;
+    font-size: 13px;
+    font-weight: 400;
+}
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected{
+    color: #d84f57 !important;
+}
+.css-1aquho2-MuiTabs-indicator{
+    background-color: #d84f57 !important;
+}
+
+
+/* =============== tabs ================ */
+.tabss{
+    box-shadow: 0 0 4px 0 #ccc;
+    padding: 20px 30px;
+    min-height: 430px;
+}
+.tabs{
+    cursor: pointer;
+    font-size: 17px;
+    padding: 5px;
+    
+
+}
+.active{
+    border-bottom: 3px solid #d84f57;
+    color:#d84f57;
+}
+.close{
+    display: none;
+}
+.opens{
+    display:block;
+}
+.first_slide{
+   padding: 50px 0 380px;
+}
+.second_slide{
+    top:40px;
+}
+.boarding{
+    height: 15px;
+    width: 15px;
+}
+.amount{
+    font-size: 15px;
+    font-weight: 600;
+    color: #4c4c5f;
+}
+.tax{
+    font-size: 10px;
+    font-weight: 400;
+    color: #585866;
+}
+.inrr{
+    font-size: 15px;
+    color: #4c4c5f;
+    font-weight: 700;
+}
+.amount_property{
+    
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+}
+
+.payment_slide{
+    top: 40px;
+}
+.change{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+    color: rgb(68, 140, 233);
+}
+.size{
+    font-size: 13px;
+}
+.head_size{
+    font-size: 13px;
+    font-weight: 700;
+}
+.filterpos{
+    position: sticky;
+    top:56px;
+    background-color: #ffffff;
+    
+}
+.helloo{
+    z-index: 6;
+    background-color: #e9e9e9;
+    position: sticky;
+    top:0;
+   
+    padding: 15px 0;
+    border-bottom: 1px solid #c9c9c9;
+}
+.route{
+    padding: 12px 5px 12px 30px;
+    line-height: 16px;
+    font-size: 13px;
+    color: #8b8b8b !important;
+    background-color: rgb(241, 240, 238);
+}
+.roder{
+    
+    margin-left: 2%;
+    color: #3e3e52;
+}
+.roder button{
+    padding: 0 20px;
+    border-radius: 4px;
+    background-color:  rgb(241, 240, 238);
+}
+.route p{
+    font-weight: 700;
+    font-size: 15px;
+    margin: 0px !important;
+    color: #3e3e52;
+}
+.route .ww{
+    color: #3e3e52;
+    font-weight: 700;
+}
+.route span{
+    font-size: 15px;
+   font-weight: 700;
+}

@@ -1,0 +1,153 @@
+.cards {
+    display: flex !important;
+}
+
+img.imge {
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 2.5rem;
+    margin-top: 10%;
+}
+
+.bus-sec{
+    margin-bottom: 5%;
+}
+
+@media(min-width:580px) {
+    .containe {
+        z-index: 5;
+        width: 70%;
+        margin: auto;
+        background: rgb(255, 255, 255);
+        box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 25px;
+        border-radius: 32px;
+        padding: 2rem;
+        gap: 3rem;
+        position: absolute;
+        top: 670px;
+        left:18%;
+    }
+    }
+    @media(min-width:992px) {
+        .containe {
+            z-index: 5;
+            width: 70%;
+            margin: auto;
+            background: rgb(255, 255, 255);
+            box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 25px;
+            border-radius: 32px;
+            padding: 2rem;
+            gap: 3rem;
+            position: absolute;
+            top: 470px;
+            left:18%;
+        }
+        }
+
+
+.center-section div#\30 {
+    background-image: linear-gradient(71.04deg, rgb(12, 57, 139) -6.92%, rgb(62, 118, 216) 109.43%);
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.center-section div#\31 {
+    background-image: linear-gradient(71.04deg, rgb(39, 57, 101) -6.92%, rgb(80, 210, 149) 109.43%);
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.center-section div#\34 {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(24, 125, 151) -6.92%, rgb(109, 213, 237) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.center-section div#\32 {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(72, 0, 4) -6.92%, rgb(216, 78, 85) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.center-section div#\33 {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(14, 113, 67) -6.92%, rgb(115, 236, 179) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.center-section div#\35 {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(206, 119, 0) -6.92%, rgb(255, 194, 111) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.slick-track {
+    gap: 20px !important;
+    display: flex;
+}
+
+h3.name {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 1.25rem;
+    padding: 0.25rem 0.5rem;
+    width: fit-content;
+    font-size: 12px;
+    text-align: center;
+}
+
+h1.desc {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    max-height: 3rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #fff;
+}
+
+h2.date {
+    font-size: 12px;
+    line-height: 1rem;
+    font-weight: 400;
+}
+
+.type{
+    border: 1px dashed rgb(255, 255, 255);
+    border-radius: 0.25rem;
+    max-width: 140px;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.25rem 0.5rem;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.center-section{
+    padding:160px 0;
+}
+.head{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+}

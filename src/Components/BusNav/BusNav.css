@@ -1,0 +1,45 @@
+.overall{
+    width:85%;
+    margin: auto;
+    padding: 0px 50px;
+    top: 0;
+    /* width: 100%; */
+    z-index: 12;
+}
+.color21{
+   
+    background-color: #d84f57;
+
+}
+.boxi:hover{
+    background-color: transparent;
+}
+/* h2{
+    color:white;
+} */
+
+
+.box{
+    text-align: center;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.css-1pz7awu-MuiButtonBase-root-MuiIconButton-root{
+    border-radius: 10px !important;
+    padding: 5px 10px !important;
+}
+.busicon{
+    width:90%;
+}
+
+.content{
+    color:#1d1d1d;
+    font-size: 15px;
+    margin-top: 0;
+    font-weight:500;
+}
+
+.box1{
+    display: flex;
+}

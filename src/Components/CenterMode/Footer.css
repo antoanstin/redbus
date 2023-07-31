@@ -1,0 +1,40 @@
+
+
+
+a {
+    display:flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    margin-bottom: 7px;
+    color:#3e3e52;
+    font-size: 15px;
+}
+
+.footer-sec {
+    background-color: #f7f7f7;
+    padding:50px 0 40px ;
+}
+
+.footer-sec h6{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+p{
+   font-weight: 400 !important;
+}
+
+
+.content{
+    color:#3e3e52;
+}
+
+
+.icons{
+    color: black;
+    margin-left: 25px;
+}
