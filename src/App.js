@@ -1,16 +1,16 @@
-// import logo from './logo.svg';
-import './App.css';
-import Routing from './Router/Routing';
-// import Home from './Components/Home';
+// // import logo from './logo.svg';
+// import './App.css';
+// import Routing from './Router/Routing';
+// // import Home from './Components/Home';
 
-function App() {
-  return (
-    <div>
+// function App() {
+//   return (
+//     <div>
       
-      <Routing/>
+//       <Routing/>
       
-    </div>
-  );
-}
+//     </div>
+//   );
+// }
 
-export default App;
+// export default App;
