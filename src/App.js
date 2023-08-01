@@ -1,12 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
-import Home from './Components/Home';
+import Routing from './Router/Routing';
+// import Home from './Components/Home';
 
 function App() {
   return (
     <div>
       
-      <Home/>
+      <Routing/>
       
     </div>
   );
