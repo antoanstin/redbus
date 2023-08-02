@@ -15,7 +15,7 @@ const Routing = () => {
     <stateContext.Provider value={{state,dispatch}}>
       <BrowserRouter>
         <Routes>
-          <Route path="/redbus" element={<Home />}></Route>
+          <Route path="/react-redbus" element={<Home />}></Route>
           <Route path="/buses" element={<Buses/>}></Route>  
           <Route path="/*" element={<h1>page not found</h1>}></Route>
         </Routes>

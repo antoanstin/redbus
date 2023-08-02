@@ -413,7 +413,7 @@ const Bus = () => {
         // let string =JSON.string(state.usersSeat)
         localStorage.setItem("seats", state.usersSeats)
         localStorage.setItem("date", state.usersDate)
-        Navi(`/redbus`)
+        Navi(`/react-redbus`)
       },
       prefil: {
         name: "Anto",
@@ -464,7 +464,7 @@ const Bus = () => {
   }
   useEffect(Disable, [])
   const HandNavi = () => {
-    Navi("/redbus")
+    Navi("/react-redbus")
   }
   return (
 
