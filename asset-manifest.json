@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/redbus/static/css/main.6cab5391.css",
-    "main.js": "/redbus/static/js/main.ba439801.js",
+    "main.css": "/redbus/static/css/main.bd812c50.css",
+    "main.js": "/redbus/static/js/main.99acc353.js",
     "static/media/slick.svg": "/redbus/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/redbus/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/redbus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/redbus/index.html",
     "static/media/slick.woff": "/redbus/static/media/slick.295183786cd8a1389865.woff",
-    "main.6cab5391.css.map": "/redbus/static/css/main.6cab5391.css.map",
-    "main.ba439801.js.map": "/redbus/static/js/main.ba439801.js.map"
+    "main.bd812c50.css.map": "/redbus/static/css/main.bd812c50.css.map",
+    "main.99acc353.js.map": "/redbus/static/js/main.99acc353.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cab5391.css",
-    "static/js/main.ba439801.js"
+    "static/css/main.bd812c50.css",
+    "static/js/main.99acc353.js"
   ]
 }
