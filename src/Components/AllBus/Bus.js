@@ -18,7 +18,7 @@ const Bus = () => {
   var date = search.get('onBoard');
   // setJourneyDate(date)
   var userBus = bus.filter((e) => {
-    if (e.from.toLowerCase() == from && e.to.toLowerCase() == to) {
+    if (e.from.toLowerCase() == from.toLowerCase() && e.to.toLowerCase() == to.toLowerCase()) {
       return e
     }
   })
@@ -413,7 +413,7 @@ const Bus = () => {
         // let string =JSON.string(state.usersSeat)
         localStorage.setItem("seats", state.usersSeats)
         localStorage.setItem("date", state.usersDate)
-        Navi(`/react-redbus`)
+        Navi(`/redbus`)
       },
       prefil: {
         name: "Anto",
@@ -464,7 +464,7 @@ const Bus = () => {
   }
   useEffect(Disable, [])
   const HandNavi = () => {
-    Navi("/react-redbus")
+    Navi("/redbus")
   }
   return (
 

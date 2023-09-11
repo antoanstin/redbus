@@ -33,13 +33,13 @@
         "Fare":"850",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -86,7 +86,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     },
@@ -124,13 +124,13 @@
         "Fare":"780",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -179,7 +179,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     },
@@ -217,13 +217,13 @@
         "Fare":"850",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -270,7 +270,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     },
@@ -308,13 +308,13 @@
         "Fare":"780",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -363,7 +363,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     },
@@ -401,13 +401,13 @@
         "Fare":"850",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -454,7 +454,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     },
@@ -492,13 +492,13 @@
         "Fare":"780",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -547,7 +547,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     },
@@ -585,13 +585,13 @@
         "Fare":"850",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -638,7 +638,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     },
@@ -676,13 +676,13 @@
         "Fare":"780",
         "Seats_Available":"24 seats available",
         "rating_person":"324",
-        "depa":["Thenkasi","Rajabalayam","Sivakasi"],
+        "depa":["Tenkasi","Rajabalayam","Sivakasi"],
         "start":["20:30","20:40"],
         "drop":["madurai","trichy","Thindivanam","vilupuram","koyambedu"],
        "end":["01:40","02:00","05:30","06:20","07:15"],
        "f_l":"bus1-l",
        "f_u":"bus1-u",
-       "from":"Thenkasi",
+       "from":"Tenkasi",
        "to":"Chennai",
        "rout":"3"
 
@@ -731,7 +731,7 @@
        "f_l":"bus1-l",
        "f_u":"bus1-u",
        "from":"Chennai",
-       "to":"Thenkasi",
+       "to":"Tenkasi",
        "rout":"4"
 
     }
